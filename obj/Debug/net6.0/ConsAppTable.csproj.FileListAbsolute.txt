@@ -12,3 +12,4 @@ C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTable\Cons
 C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTable\ConsAppTable\obj\Debug\net6.0\ConsAppTable.pdb
 C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTable\ConsAppTable\obj\Debug\net6.0\ConsAppTable.genruntimeconfig.cache
 C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTable\ConsAppTable\obj\Debug\net6.0\ref\ConsAppTable.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\Phase4\Day3\Assignment\ConsAppTable\ConsAppTable\obj\Debug\net6.0\ConsAppTable.sourcelink.json

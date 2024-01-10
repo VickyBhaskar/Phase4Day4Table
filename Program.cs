@@ -4,3 +4,9 @@ for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"{num}*{i}=\t {(num*i)}");
 }
+Console.WriteLine("Table of Six ");
+num = 6;
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine($"{num}*{i}=\t {(num * i)}");
+}
